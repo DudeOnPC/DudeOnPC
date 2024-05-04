@@ -18,5 +18,5 @@
 
 [twitter]: https://twitter.com/DudeOnPC
 [instagram]: https://www.instagram.com/jordanreagent/
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/jordan-carromero-5b4014207
 
